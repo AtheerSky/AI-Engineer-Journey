@@ -12,4 +12,9 @@ This project applies machine learning to predict daily solar energy output and n
 - Working with live APIs (Open-Meteo).
 - Building a simple Retrieval-Augmented Generation (RAG) pipeline for evidence-based recommendations.
 
+## Authors
 
+- Atheer
+- Ritaj
+- Yasser
+- Hussam
