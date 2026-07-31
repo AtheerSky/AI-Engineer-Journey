@@ -13,35 +13,18 @@ This repository documents my journey to becoming an AI Engineer.
 - Build Space AI Projects
 
 
-## Projects 
+## Projects
 
 ├── Machine-Learning
 │   │
-│   │
 │   ├── Student-Depression-Prediction
 │   │
-│   ├── Solar-Energy-Air-Quality-Prediction 
-│   │
-│   ├── Coming Soon!
-│   │
-│   └── Coming Soon!
+│   └── Solar-Energy-Air-Quality-Prediction
 │
 ├── Deep-Learning
-│   │
-│   │
-│   └── Coming Soon!
 │
 ├── Computer-Vision
-│   │
-│   │
-│   └── Coming Soon!
 │
 ├── NLP
-│   │
-│   │
-│   └── Coming Soon!
 │
 └── Space-AI-Projects
-│   │
-│   │
-│   └── Coming Soon!
