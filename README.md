@@ -21,12 +21,16 @@ This repository documents my journey to becoming an AI Engineer.
 - Solar Energy and Air Quality Prediction
 
 ### Deep Learning
+-
 
 ### Computer Vision
+-
 
 
 ### NLP
+-
 
 
 ### Space AI Projects
+-
 
