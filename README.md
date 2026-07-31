@@ -16,9 +16,7 @@ This repository documents my journey to becoming an AI Engineer.
 ## Projects
 
 ├── Machine-Learning
-
 │      │
-
 │      ├── Student-Depression-Prediction
 
 │      │
