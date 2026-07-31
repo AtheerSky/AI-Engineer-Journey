@@ -17,6 +17,7 @@ This repository documents my journey to becoming an AI Engineer.
 
 ├── Machine-Learning
 │   │
+│   │
 │   ├── Student-Depression-Prediction
 │   ├── Solar-Energy-Air-Quality-Prediction 
 │   ├── Coming Soon!
@@ -24,16 +25,20 @@ This repository documents my journey to becoming an AI Engineer.
 │
 ├── Deep-Learning
 │   │
+│   │
 │   └── Coming Soon!
 │
 ├── Computer-Vision
+│   │
 │   │
 │   └── Coming Soon!
 │
 ├── NLP
 │   │
+│   │
 │   └── Coming Soon!
 │
 └── Space-AI-Projects
+│   │
 │   │
 │   └── Coming Soon!
