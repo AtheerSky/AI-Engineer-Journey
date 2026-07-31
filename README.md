@@ -19,8 +19,11 @@ This repository documents my journey to becoming an AI Engineer.
 │   │
 │   │
 │   ├── Student-Depression-Prediction
+│   │
 │   ├── Solar-Energy-Air-Quality-Prediction 
+│   │
 │   ├── Coming Soon!
+│   │
 │   └── Coming Soon!
 │
 ├── Deep-Learning
