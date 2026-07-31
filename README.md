@@ -18,18 +18,24 @@ This repository documents my journey to becoming an AI Engineer.
 ├── Machine-Learning
 
 │   │
+
 │   ├── Student-Depression-Prediction
 
 │   │
+
 │   └── Solar-Energy-Air-Quality-Prediction
 │
+
 ├── Deep-Learning
 
 │
+
 ├── Computer-Vision
 
 │
+
 ├── NLP
 
 │
+
 └── Space-AI-Projects
