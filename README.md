@@ -36,5 +36,6 @@ This repository documents my journey to becoming an AI Engineer.
 
 
 ### Space AI Projects
--
+- Predicting Stellar Parallax from Observable Properties                                                                        
+
 
