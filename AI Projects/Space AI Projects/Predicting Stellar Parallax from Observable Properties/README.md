@@ -50,4 +50,5 @@ Brightness, colour, and sky position contain information related to stellar para
 Parallax is fundamentally a **geometric measurement**, while our features mainly describe how a star appears to us.
 
 > **A trace never tells the whole story — but it can tell us something real.**
+<img width="1103" height="590" alt="image" src="https://github.com/user-attachments/assets/eb7ce6c2-c0a0-43a6-b795-f3aa4d6025d3" />
 
