@@ -1,5 +1,5 @@
 # AI-Engineer-Journey
-This repository documents my journey to becoming an AI Engineer.
+This repository documents my journey to becoming a Data Science and AI Engineer.
 
 
 ## Goals
