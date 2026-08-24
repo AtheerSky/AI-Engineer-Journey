@@ -1,6 +1,6 @@
 # Predicting Stellar Parallax from Gaia DR3 Data Using Machine Learning
 
-> **What remains, when we cannot go back?**
+> **What if the past could still reach us?**
 
 Some moments leave only traces — a memory, a photograph, a small piece of what once existed.
 
