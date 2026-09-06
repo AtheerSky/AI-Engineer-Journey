@@ -9,6 +9,7 @@ This repository documents my journey to becoming a Data Science and AI Engineer.
 - Learn linear algebra
 - Learn statistics and probability
 - Learn Python
+- Learn Data science and Analytics
 - Learn Machine Learning
 - Learn Deep Learning
 - Learn Computer Vision
