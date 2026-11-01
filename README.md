@@ -29,11 +29,11 @@ This repository documents my journey to becoming a Data Science and AI Engineer.
 -
 
 ### Computer Vision
--
+- coming soon !
 
 
 ### NLP
--
+- coming soon!
 
 
 ### Space AI Projects
