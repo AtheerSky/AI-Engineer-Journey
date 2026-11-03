@@ -42,7 +42,7 @@ Synonym similarity increased, while antonym and control similarity decreased.
 In this experiment, similarity decreased across all categories, but synonyms remained closer to the reference words than antonyms.
 
 
-Conclusion
+## Conclusion
 
 In our experiments, ARBERT represented antonyms with similarity scores close to those of synonyms when the words appeared in similar contexts.
 After NLI fine-tuning, similarity decreased across all groups in the second experiment, while antonyms remained more similar to reference words than unrelated control words in both experiments.
