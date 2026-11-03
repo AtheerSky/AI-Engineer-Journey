@@ -8,8 +8,6 @@ That led to our **research question**:
 > **If a language model sees two words in similar contexts, will it place their representations close even if they differ in spelling and are opposite in meaning?**
 
 
-
-
 ## Method
 
 Using [**UBC-NLP/ARBERT**](https://huggingface.co/UBC-NLP/ARBERT), we:
@@ -43,6 +41,12 @@ Synonym similarity increased, while antonym and control similarity decreased.
 
 In this experiment, similarity decreased across all categories, but synonyms remained closer to the reference words than antonyms.
 
+
+Conclusion
+
+In our experiments, ARBERT represented antonyms with similarity scores close to those of synonyms when the words appeared in similar contexts.
+After NLI fine-tuning, similarity decreased across all groups in the second experiment, while antonyms remained more similar to reference words than unrelated control words in both experiments.
+The effect on synonyms differed between the two experiments, highlighting the influence of sentence-frame design on the results.
 
 
 
