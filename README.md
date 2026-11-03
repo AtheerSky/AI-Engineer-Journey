@@ -4,13 +4,13 @@ This repository documents my journey to becoming a Data Science and AI Engineer.
 
 ## Goals
 
-- Learn mathematics
-- Learn calculus
-- Learn linear algebra
-- Learn statistics and probability
-- Learn Python
-- Learn Data science and Analytics
-- Learn Machine Learning
+- Learn mathematics ✔️
+- Learn calculus ✔️
+- Learn linear algebra ✔️
+- Learn statistics and probability ✔️
+- Learn Python ✔️
+- Learn Data science and Analytics ✔️
+- Learn Machine Learning ✔️
 - Learn Deep Learning
 - Learn Computer Vision
 - Learn NLP
@@ -33,7 +33,6 @@ This repository documents my journey to becoming a Data Science and AI Engineer.
 
 
 ### NLP
-- coming soon!
 
 
 ### Space AI Projects
