@@ -1,6 +1,6 @@
 # Under One Sky: How Arabic Words Are Represented in Similar Contexts
 
-> **Can two words mean the opposite, yet look similar to an AI model?**
+> Can two words mean the opposite, yet look similar to an AI model?
 Words can share the same context without sharing the same meaning. A word like *love* and its opposite, *hate*, can appear in very similar sentences. But does a language model recognize the difference in meaning, or does it mainly learn from the contexts in which words appear?
 
 That led to our **research question**:
