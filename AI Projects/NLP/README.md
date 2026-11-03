@@ -1,6 +1,6 @@
 # Under One Sky: How Arabic Words Are Represented in Similar Contexts
 
-> Can two words mean the opposite, yet look similar to an AI model?**
+> **Can two words mean the opposite, yet look similar to an AI model?**
 Words can share the same context without sharing the same meaning. A word like *love* and its opposite, *hate*, can appear in very similar sentences. But does a language model recognize the difference in meaning, or does it mainly learn from the contexts in which words appear?
 
 That led to our **research question**:
@@ -41,14 +41,11 @@ Synonym similarity increased, while antonym and control similarity decreased.
 
 In this experiment, similarity decreased across all categories, but synonyms remained closer to the reference words than antonyms.
 
+<img width="947" height="381" alt="nlp1" src="https://github.com/user-attachments/assets/44ad52d6-a28b-4125-8f34-43863721a677" />
+<img width="947" height="410" alt="nlp2" src="https://github.com/user-attachments/assets/0c5a4322-b154-4c57-98dc-24e9f137d09c" />
 
 ## Conclusion
 
 In our experiments, ARBERT represented antonyms with similarity scores close to those of synonyms when the words appeared in similar contexts.
 After NLI fine-tuning, similarity decreased across all groups in the second experiment, while antonyms remained more similar to reference words than unrelated control words in both experiments.
 The effect on synonyms differed between the two experiments, highlighting the influence of sentence-frame design on the results.
-
-
-
-<img width="947" height="381" alt="nlp1" src="https://github.com/user-attachments/assets/44ad52d6-a28b-4125-8f34-43863721a677" />
-<img width="947" height="410" alt="nlp2" src="https://github.com/user-attachments/assets/0c5a4322-b154-4c57-98dc-24e9f137d09c" />
