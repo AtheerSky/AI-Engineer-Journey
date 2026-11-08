@@ -33,6 +33,7 @@ This repository documents my journey to becoming a Data Science and AI Engineer.
 
 
 ### NLP
+- Under One Sky: How Arabic Words Are Represented in Similar Contexts
 
 
 ### Space AI Projects
