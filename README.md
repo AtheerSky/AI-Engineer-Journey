@@ -13,7 +13,7 @@ This repository documents my journey to becoming a Data Science and AI Engineer.
 - Learn Machine Learning ✔️
 - Learn Deep Learning
 - Learn Computer Vision
-- Learn NLP
+- Learn NLP ✔️
 - Build AI Projects
 - Build Space AI Projects
 
