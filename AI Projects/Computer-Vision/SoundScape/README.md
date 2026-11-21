@@ -1,5 +1,5 @@
 # SoundScape AI — Audio Modeling Experiments
-حين تُروى المشاهد بالأصوات
+>حين تُروى المشاهد بالأصوات
 
 **What if a rain sound could be made lighter, calmer, or farther away just by asking?**
 
@@ -127,9 +127,7 @@ A blind listening package was prepared with **20 audio clips and 15 intensity co
 
 ## Full Project Repository
 
-For the complete SoundScape AI project, visit:
-
-**[SoundScape AI — Main Project Repository](https://github.com/LeenAlaslani/SoundScape-AI)**
+For the complete SoundScape AI project, visit: [SoundScape AI — Main Project Repository](https://github.com/LeenAlaslani/SoundScape-AI)
 
 
  [the live studio](https://soundscape-ai-studio.onrender.com/)
