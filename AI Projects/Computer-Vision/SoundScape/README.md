@@ -1,5 +1,6 @@
 # SoundScape AI — Audio Modeling Experiments
 حين تُروى المشاهد بالأصوات
+
 **What if a rain sound could be made lighter, calmer, or farther away just by asking?**
 
 Text-to-audio models can generate environmental sounds from text prompts, but how much control do we really have over the characteristics of the generated audio?
