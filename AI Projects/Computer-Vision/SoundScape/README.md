@@ -1,5 +1,5 @@
 # SoundScape AI: nature sound generation 
->> عندما تصبح للمشهد صوت
+> عندما تصبح للمشهد صوت
 
 
 
