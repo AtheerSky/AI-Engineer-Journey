@@ -13,7 +13,7 @@ That led to our **research question**:
 
 Using the pretrained [**AudioLDM 2**](https://huggingface.co/cvssp/audioldm2) and [**200 ESC-50 clips**](https://github.com/karolpiczak/esc-50) (rain, sea waves, wind, flowing water, thunderstorm), we:
 
-- Built on the generation pipeline [???](https://github.com/LeenAlaslani) (candidate selection, mastering, 60-second loops, mixer).
+- Built on the generation pipeline [complete project files](https://github.com/LeenAlaslani/SoundScape-AI) (candidate selection, mastering, 60-second loops, mixer).
 - Checked the data: no duplicate files, no source shared between splits, 10 clips with padded silence and 31 with clipping.
 - Created intensity labels (*light*, *moderate*, *heavy*) and comfort labels (*calm*, *harsh*) from the audio itself, because ESC-50 has no captions.
 - Trained two **LoRA** adapters on the cross-attention layers (**1.59M** trainable parameters, about **0.45%** of the U-Net).
@@ -36,3 +36,6 @@ Using the pretrained [**AudioLDM 2**](https://huggingface.co/cvssp/audioldm2) an
 ## Conclusion
 
 In our experiments, 
+
+[try ](https://soundscape-ai-studio.onrender.com/)
+<img width="1440" height="1479" alt="image" src="https://github.com/user-attachments/assets/010e5332-5495-445b-9c6c-4cf22386d75d" />
